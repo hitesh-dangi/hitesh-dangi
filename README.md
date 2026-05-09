@@ -24,7 +24,7 @@ To graduate in **June 2027** with a portfolio of automated solutions and a deep 
 ---
 
 📫 **Connect with me:**
-- **LinkedIn:** [Link]
+- **LinkedIn:** https://www.linkedin.com/in/hiteshdangi-devops
 - **GitHub:** You are here!
 - **Email:** dangihitesh32@gmail.com
 
