@@ -34,11 +34,7 @@ I am actively documenting my daily engineering drills, scripts, and architectura
 ---
 
 ### 📫 Connect with the Architect
-
-* **LinkedIn:** [hiteshdangi-devops](https://linkedin.com/in/hiteshdangi-devops)
+* **LinkedIn:** [linkedin.com/in/hiteshdangi-devops](https://www.linkedin.com/in/hiteshdangi-devops)
 * **Email:** [dangihitesh32@gmail.com](mailto:dangihitesh32@gmail.com)
 
----
-
-
-*"Efficiency is doing things right; effectiveness is doing the right things."*
+> *"Efficiency is doing things right; effectiveness is doing the right things."*
